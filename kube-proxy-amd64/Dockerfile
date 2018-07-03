@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-proxy-amd64:v1.10.5
+From k8s.gcr.io/kube-proxy-amd64:v1.10.0
 MAINTAINER wangxh
