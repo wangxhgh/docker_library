@@ -1,2 +1,2 @@
-From k8s.gcr.io/pause-amd64:3.1.12
+From k8s.gcr.io/pause-amd64:3.1
 MAINTAINER wangxh 
